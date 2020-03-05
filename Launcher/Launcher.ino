@@ -10,7 +10,7 @@
  *  D6  = 12
  *  D7  = 13
  *  D8  = 15 // 下拉
- *  D8  = 3
+ *  D9  = 3
  *  D10 = 1
  *  控制函数:
  *  int Enum Mode {INPUT = 0, OUTPUT = 1}
