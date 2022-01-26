@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="esp8266">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ESP8266.zip!/" />
+      <root url="jar://$PROJECT_DIR$/uPyLoader-0.1.4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ch341ser_windows.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
